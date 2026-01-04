@@ -9,12 +9,19 @@
 ---
 
 ## 저장소 구조
+
 ├── quiz_1_2.py
+
 ├── quiz_3_4.py
+
 ├── quiz_5_6.py
+
 ├── quiz_7_8.py
+
 ├── quiz_9_10.py
+
 ├── quiz_11_12.py
+
 └── README.md
 
 각 Python 파일은 수업 중 제시된 문제 번호(Quiz 또는 과제)에 맞추어 작성되었습니다.
