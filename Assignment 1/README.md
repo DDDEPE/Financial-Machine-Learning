@@ -10,7 +10,6 @@
 
 ## 저장소 구조
 ```text
-.
 ├── quiz_1_2.py
 ├── quiz_3_4.py
 ├── quiz_5_6.py
